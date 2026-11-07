@@ -1,4 +1,4 @@
-FROM rclone/rclone:1.62
+FROM rclone/rclone:latest
 
 ENV PUID=1026
 ENV PGID=100
